@@ -7,6 +7,7 @@ This repository contains assignments and practice exercises based on different c
 | Topic            | Assignment                                  |
 | ---------------- | ------------------------------------------- |
 | Django Templates | [Templates Assignments](templates.md)       |
+| Django Forms     | [Forms Assignments](forms.md)               |
 
 ## Topics Covered
 
@@ -14,6 +15,10 @@ This repository contains assignments and practice exercises based on different c
 * Template Inheritance
 * Template Tags and Filters
 * Static Files
+* Forms
+* GET and POST request
+* Form validation and cleaning
+* Widgets
 
 ## How to Use
 
